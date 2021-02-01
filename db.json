@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "name": "Rib Eye Kg",
+      "pressing": "1450",
+      "id": 1
+    },
+    {
+      "name": "Computodo Eduardo",
+      "pressing": "9000",
+      "id": 2
+    },
+    {
+      "name": "Samsung",
+      "pressing": "30000",
+      "id": 3
+    },
+    {
+      "name": "David Fernando Valenzuela Pardo",
+      "pressing": "3000",
+      "id": 6
+    }
+  ]
+}
